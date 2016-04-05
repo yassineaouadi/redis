@@ -1,2 +1,2 @@
 # redis
-Deploiment , Configuration et Integration des données
+Deploiement , Configuration et Integration des données
